@@ -59,7 +59,7 @@ https://blog.csdn.net/qq_44275213/article/details/128666542
 3.运行程序：
 
 ```
-python Email Sender.py
+python EmailSender.py
 ```
 
 ## 生成客户端文件
